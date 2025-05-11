@@ -1,0 +1,14 @@
+# Header navigation links
+main:
+  - title: "About"
+    url: /
+  # - title: "Blog"
+  #   url: /blog/
+  # - title: "Projects"
+  #   url: /projects/
+  # - title: "Teaching"
+  #   url: /teaching/
+  # - title: "People"
+  #   url: /people/
+  # - title: "Repositories"
+  #   url: /repositories/
