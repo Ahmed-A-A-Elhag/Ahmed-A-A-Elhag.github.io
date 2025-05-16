@@ -23,3 +23,23 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+.publication-abbr,
+.abbr {
+  display: inline-block;
+  background-color: var(--color-accent);
+  color: #fff;
+  padding: 0.1em 0.4em;
+  font-size: 0.75em;
+  border-radius: 0.25em;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5em;
+}
+
+/* Hide any empty placeholders */
+.publication-abbr:empty,
+.abbr:empty {
+  display: none;
+}
