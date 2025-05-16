@@ -4,12 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-layout: about
-title: About
-permalink: /
----
-
-
 profile:
   align: right
   image: prof_pic.jpg
