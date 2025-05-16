@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ahmedelhag.com/sitemap.xml
+Sitemap: https://ahmed-a-a-elhag.github.io/sitemap.xml
