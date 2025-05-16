@@ -25,17 +25,23 @@ $max-content-width: {{ site.max_width }};
 ;
 
 
-.publication-abbr,
-.abbr {
-  display: inline-block;
-  background-color: var(--color-accent);
-  color: #fff;
-  padding: 0.1em 0.4em;
-  font-size: 0.75em;
-  border-radius: 0.25em;
-  line-height: 1;
-  vertical-align: middle;
-  margin-right: 0.5em;
+.publication-icon {
+  display: none !important;
+}
+
+
+/* Abbreviation badge styling */
+.abbr,
+.publication-abbr {
+  display: inline-block !important;
+  background-color: var(--color-accent) !important;
+  color: #fff !important;
+  padding: 0.3em 0.6em !important;
+  font-size: 0.8em !important;        /* ← bump font size */
+  border-radius: 0.25em !important;
+  line-height: 1.2 !important;
+  vertical-align: middle !important;
+  margin-right: 0.5em !important;
 }
 
 /* Hide any empty placeholders */
