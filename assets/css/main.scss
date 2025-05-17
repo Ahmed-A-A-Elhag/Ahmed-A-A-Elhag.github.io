@@ -24,6 +24,9 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+.social .fa-google-scholar {
+  background-image: none !important;
+}
 
 // .profile img {
 //   max-height: 300px !important;
