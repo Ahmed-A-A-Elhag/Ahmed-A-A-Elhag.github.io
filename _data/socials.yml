@@ -21,7 +21,6 @@ github_username: Ahmed-A-A-Elhag # your GitHub user name
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
 linkedin_username: ahmed-elhag-7305441a3 # your LinkedIn user name
-twitter_username: Ahmed_AI035
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -43,7 +42,7 @@ scholar_userid: v0MsHOMAAAAJ # your Google Scholar ID
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
+x_username: Ahmed_AI035 # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
