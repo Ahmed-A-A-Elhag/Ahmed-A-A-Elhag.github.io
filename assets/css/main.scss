@@ -24,8 +24,15 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.social .fa-google-scholar {
-  background-image: none !important;
+// .social .fa-google-scholar {
+//   background-image: none !important;
+// }
+
+/* Hide RSS icon */
+.social .fa-rss,
+.social a[href$="/feed.xml"],
+.social a[title="rss"] {
+  display: none !important;
 }
 
 // .profile img {
