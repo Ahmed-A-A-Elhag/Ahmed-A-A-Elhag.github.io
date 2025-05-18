@@ -35,6 +35,10 @@ $max-content-width: {{ site.max_width }};
   display: none !important;
 }
 
+/* hide the light/dark toggle in the navbar */
+.theme-toggle {
+  display: none !important;
+}
 
 // .profile img {
 //   max-height: 300px !important;
