@@ -28,6 +28,11 @@ $max-content-width: {{ site.max_width }};
 //   background-image: none !important;
 // }
 
+/* Hide the light/dark theme toggle button */
+#light-toggle {
+  display: none !important;
+}
+
 /* Hide RSS icon */
 .social .fa-rss,
 .social a[href$="/feed.xml"],
@@ -35,10 +40,6 @@ $max-content-width: {{ site.max_width }};
   display: none !important;
 }
 
-// /* hide the light/dark toggle in the navbar */
-// .theme-toggle {
-//   display: none !important;
-// }
 
 // .profile img {
 //   max-height: 300px !important;
