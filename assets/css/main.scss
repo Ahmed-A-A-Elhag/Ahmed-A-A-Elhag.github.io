@@ -35,21 +35,6 @@ $max-content-width: {{ site.max_width }};
   display: none !important;
 }
 
-// 1. Make the icons blue by default
-.social-icons a,
-.social-icons a i,
-.social-icons a svg {
-  color: #0099ff !important;
-  fill:  #0099ff !important;
-}
-
-// 2. And turn them white on hover
-.social-icons a:hover,
-.social-icons a:hover i,
-.social-icons a:hover svg {
-  color: #ffffff !important;
-  fill:  #ffffff !important;
-}
 
 // .profile img {
 //   max-height: 300px !important;
