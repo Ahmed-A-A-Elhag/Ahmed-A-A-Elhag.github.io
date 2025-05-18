@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the Department of Computer Science at the University of Oxford, advised b [Michael Bronstein](https://scholar.google.co.uk/citations?user=UU3N6-UAAAAJ&hl=en). My research focuses on the intersection of geometric deep learning, graph ML, and generative models. I'm particularly interested in how we can combine these approaches to develop robust ML methods that can accelerate progress in drug discovery and molecular design. 
+I am a PhD student at the Department of **Computer Science** at the **University of Oxford**, advised b [Michael Bronstein](https://scholar.google.co.uk/citations?user=UU3N6-UAAAAJ&hl=en). My research focuses on the intersection of geometric deep learning, graph ML, and generative models. I'm particularly interested in how we can combine these approaches to develop robust ML methods that can accelerate progress in drug discovery and molecular design. 
 
-Before my doctoral studies, I graduated from the African Masters of Machine Intelligence program at AIMS Senegal. I also interned at Apple MLR team where I worked on developing generative models for 3D and graph-structured data.
+Before my doctoral studies, I graduated from the **African Masters of Machine Intelligence** program at AIMS Senegal. I also interned at **Apple MLR** team where I worked on developing generative models for 3D and graph-structured data.
 
-Contact: `ahmed.elhag[at]cs.ox.ac.uk`
+**Contact**: `ahmed.elhag[at]cs.ox.ac.uk`
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
