@@ -31,7 +31,7 @@ I am a PhD student at the Department of Computer Science at the University of Ox
 
 Before my doctoral studies, I graduated from the African Masters of Machine Intelligence program at AIMS Senegal. I also interned at Apple MLR team where I worked on developing generative models for 3D and graph-structured data.
 
-Feel free to get in touch!
+Contact: ahmed.elhag[æt]nyu.edu
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
